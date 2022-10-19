@@ -1,0 +1,61 @@
+PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
+PREFIX sou: <http://qudt.org/vocab/sou/>
+PREFIX qudt: <http://qudt.org/schema/qudt/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?sub ?dsiString ?exponentAbsSum
+WHERE {
+  # select all units
+  ?sub a/rdfs:subClassOf* qudt:Unit .
+  
+  # that have conversion factor of 1.0
+  ?sub qudt:conversionMultiplier ?mult .
+  FILTER(?mult = 1.0) .
+  
+  # and (if given at all) a conversion offset of 0.0
+  OPTIONAL {  
+    ?sub qudt:conversionOffset ?offset
+  } .
+  FILTER(COALESCE(?offset, 0.0) = 0.0) .
+  
+  # select the dimension vector and extract knowledge
+  ?sub qudt:hasDimensionVector ?dv .
+  ?dv qudt:dimensionExponentForAmountOfSubstance ?dimAmountOfSubstance .
+  ?dv qudt:dimensionExponentForElectricCurrent ?dimElectricCurrent .
+  ?dv qudt:dimensionExponentForLength ?dimLength .
+  ?dv qudt:dimensionExponentForLuminousIntensity ?dimLuminousIntensity .
+  ?dv qudt:dimensionExponentForMass ?dimMass .
+  ?dv qudt:dimensionExponentForThermodynamicTemperature ?dimThermodynamicTemperature .
+  ?dv qudt:dimensionExponentForTime ?dimTime .
+  ?dv qudt:dimensionlessExponent ?dimlessExp .
+  
+  # for dimensionless quantities, there is numerator/denominator information
+  # however, this is so far unused and would need further work
+  # therefore, filter dimensionless units for now
+  FILTER( ?dimlessExp != 1 ) .
+  OPTIONAL {
+    ?sub qudt:qkdvNumerator ?num_dv .
+    ?num_dv qudt:dimensionExponentForLength ?numDimLength
+  } .
+  OPTIONAL {
+    ?sub qudt:qkdvDenominator ?den_dv .
+    ?den_dv qudt:dimensionExponentForLength ?denDimLength
+  } .
+  
+  # build strings for each unit corresponding to a SI-base quantity 
+  BIND(IF(?dimAmountOfSubstance=0, "", IF(?dimAmountOfSubstance=1, "\\mole", CONCAT("\\mole\\tothe{", STR(?dimAmountOfSubstance), "}"))) AS ?dsiAmountOfSubstance) .
+  BIND(IF(?dimElectricCurrent=0, "", IF(?dimElectricCurrent=1, "\\ampere", CONCAT("\\ampere\\tothe{", STR(?dimElectricCurrent), "}"))) AS ?dsiElectricCurrent) .
+  BIND(IF(?dimLength=0, "", IF(?dimLength=1, "\\metre", CONCAT("\\metre\\tothe{", STR(?dimLength), "}"))) AS ?dsiLength) .
+  BIND(IF(?dimLuminousIntensity=0, "", IF(?dimLuminousIntensity=1, "\\candela", CONCAT("\\candela\\tothe{", STR(?dimLuminousIntensity), "}"))) AS ?dsiLuminousIntensity) .
+  BIND(IF(?dimMass=0, "", IF(?dimMass=1, "\\kilogram", CONCAT("\\kilogram\\tothe{", STR(?dimMass), "}"))) AS ?dsiMass) .
+  BIND(IF(?dimThermodynamicTemperature=0, "", IF(?dimThermodynamicTemperature=1, "\\kelvin", CONCAT("\\kelvin\\tothe{", STR(?dimThermodynamicTemperature), "}"))) AS ?dsiThermodynamicTemperature) .
+  BIND(IF(?dimTime=0, "", IF(?dimTime=1, "\\second", CONCAT("\\second\\tothe{", STR(?dimTime), "}"))) AS ?dsiTime) .
+  BIND(IF(?dimlessExp=0, "", IF(?dimlessExp=1, "1", CONCAT("1\\tothe{", STR(?dimlessExp), "}"))) AS ?dsilessExp) .
+  
+  # combine all strings into a single DSI-string
+  BIND(CONCAT(?dsiAmountOfSubstance, ?dsiElectricCurrent, ?dsiLength, ?dsiLuminousIntensity, ?dsiMass, ?dsiThermodynamicTemperature, ?dsiTime, ?dsilessExp) AS ?dsiString) .
+  
+  # calculate absolute sum of all exponents (only to be used as heuristic for sorting)
+  BIND(ABS(?dimAmountOfSubstance) + ABS(?dimElectricCurrent) + ABS(?dimLength) + ABS(?dimLuminousIntensity) + ABS(?dimMass) + ABS(?dimThermodynamicTemperature) + ABS(?dimTime) + ABS(?dimlessExp) AS ?exponentAbsSum)
+  #. FILTER(?exponentAbsSum < 3)
+} 
