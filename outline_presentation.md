@@ -2,6 +2,8 @@
 
 idea collection for scidatacon
 
+a bit more technical
+
 ## motivation
 
 - idea of the semantic web
@@ -17,6 +19,8 @@ idea collection for scidatacon
 - prototypical proof-of-concept implementation to see, whether the conversion is possible at all
 - aims to provide a DSI-string for (a selected subset of) the QUDT-units, e.g., to provide this to a user / LaTeX-engine
 - use of SPARQL-request, which is launched from a Python-script
+
+- even though DSI not semantic, can be connected due to the information amount in expressive unit represenation (as QUDT here)
 
 ## Known limits and issues
 
