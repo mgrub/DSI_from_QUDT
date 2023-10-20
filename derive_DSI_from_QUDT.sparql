@@ -20,6 +20,7 @@ WHERE {
   
   # select the dimension vector and extract knowledge
   ?sub qudt:hasDimensionVector ?dv .
+  ?dv a qudt:QuantityKindDimensionVector_SI .
   ?dv qudt:dimensionExponentForAmountOfSubstance ?dimAmountOfSubstance .
   ?dv qudt:dimensionExponentForElectricCurrent ?dimElectricCurrent .
   ?dv qudt:dimensionExponentForLength ?dimLength .
