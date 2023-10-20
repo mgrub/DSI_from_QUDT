@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2023-10-19T15:10:06.284000000</meta:creation-date><meta:generator>LibreOffice/7.5.7.1$Windows_X86_64 LibreOffice_project/47eb0cf7efbacdee9b19ae25d6752381ede23126</meta:generator><dc:date>2023-10-20T16:19:55.101000000</dc:date><meta:editing-duration>PT7H5M53S</meta:editing-duration><meta:editing-cycles>44</meta:editing-cycles><meta:document-statistic meta:object-count="86"/></office:meta>
+<office:document xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
+ <office:meta><meta:creation-date>2023-10-19T15:10:06.284000000</meta:creation-date><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2023-10-20T23:22:08.611318904</dc:date><meta:editing-duration>PT7H8M3S</meta:editing-duration><meta:editing-cycles>45</meta:editing-cycles><meta:document-statistic meta:object-count="86"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">4294</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">3115</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-931</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-949</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">14099</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">9999</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">2</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-926</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1602</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">26989</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">17831</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-931</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-949</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">30273</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">17901</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">500</config:config-item>
@@ -51,103 +51,49 @@
      <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
      <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
-    </config:config-item-map-entry>
-    <config:config-item-map-entry>
-     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
-     <config:config-item config:name="GridIsVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="GridIsFront" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsSnapToGrid" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToPageMargins" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToSnapLines" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToObjectFrame" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToObjectPoints" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsPlusHandlesAlwaysVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="VisibleLayers" config:type="base64Binary">Hw==</config:config-item>
-     <config:config-item config:name="PrintableLayers" config:type="base64Binary">Hw==</config:config-item>
-     <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
-     <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">2</config:config-item>
-     <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
-     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-926</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1602</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">26989</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">17831</config:config-item>
-     <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridFineWidth" config:type="int">500</config:config-item>
-     <config:config-item config:name="GridFineHeight" config:type="int">500</config:config-item>
-     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">4</config:config-item>
-     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">4</config:config-item>
-     <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
-     <config:config-item config:name="GridIsVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="GridIsFront" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsSnapToGrid" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToPageMargins" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToSnapLines" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToObjectFrame" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsSnapToObjectPoints" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsPlusHandlesAlwaysVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="VisibleLayers" config:type="base64Binary">Hw==</config:config-item>
-     <config:config-item config:name="PrintableLayers" config:type="base64Binary">Hw==</config:config-item>
-     <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
-     <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="PageKind" config:type="short">1</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">3</config:config-item>
-     <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
-     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-2276</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-313</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">21623</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">34255</config:config-item>
-     <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridFineWidth" config:type="int">500</config:config-item>
-     <config:config-item config:name="GridFineHeight" config:type="int">500</config:config-item>
-     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">4</config:config-item>
-     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">2000</config:config-item>
-     <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">4</config:config-item>
-     <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HandoutsHorizontal" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Samsung CLP-320 Series (USB001)</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintNotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jwH+/0Nhbm9uLVNFTFBIWS1DUDEzMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbi1TRUxQSFktQ1AxMzAwAAAAAAAAAAAWAAMArAAAAAAAAAAuABAnAADQOQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub24tU0VMUEhZLUNQMTMwMApvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmFkanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleHREYXRhChIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3du</config:config-item>
+   <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintDrawing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Canon-SELPHY-CP1300</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
+   <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
+   <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(brandbaseurl)/share/palette/standard.soc</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintHandout" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="IsPrintOutline" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sob</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">de</config:config-item>
@@ -171,45 +117,9 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">Ryn+/1NhbXN1bmcgQ0xQLTMyMCBTZXJpZXMgKFVTQjAwMSkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU2Ftc3VuZyBVbml2ZXJzYWwgUHJpbnQgRHJpdmVyIAAWAAEACigAAAAAAAAEAAhSAAAEdAAAM1ROVwAAAAAKAFMAYQBtAHMAdQBuAGcAIABDAEwAUAAtADMAMgAwACAAUwBlAHIAaQBlAHMAIAAoAFUAUwBCADAAMAAxAAAAAAABBAAE3AAkJw/fgQMBAAkAmgs0CGQAAQAHAFgCAgABAAAAAwABAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABTRUNEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AC0AAABBAHIAaQBhAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAACAgIAAAACQAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVQBuAHQAaQB0AGwAZQBkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAA6ADAAOgAwADoAMAA6ADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsAQAADIAMgAyADIAMgAyADIAMgAyAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAWQAZAABAGQAAGQAAGQAAGQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAQEAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAAAAAAAAAAEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAJAAAHAAAACQAABwAAAAkAAAAABwA0CJoLNAiaCwAAAAAAQABAAAAABQYEADQImgsBAAAAAAA0CJoLXygTxQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAcgBpAGEAbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAIyMjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUfAFNhbXN1bmcgQ0xQLTMyMCBTZXJpZXMgKFVTQjAwMSkLAERSSVZFUl9OQU1FIABTYW1zdW5nIFVuaXZlcnNhbCBQcmludCBEcml2ZXIgMw==</config:config-item>
-   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sob</config:config-item>
-   <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
-   <config:config-item config:name="ColorTableURL" config:type="string">$(inst)/share/palette/standard.soc</config:config-item>
-   <config:config-item config:name="DashTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sod</config:config-item>
-   <config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soe</config:config-item>
-   <config:config-item config:name="HatchTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soh</config:config-item>
-   <config:config-item config:name="GradientTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sog</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
-   <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsPrintDrawing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsPrintNotes" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsPrintHandout" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsPrintOutline" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
-   <config:config-item config:name="HandoutsHorizontal" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -218,24 +128,28 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Serif2" svg:font-family="&apos;Liberation Serif&apos;" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Serif3" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans2" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif2" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif3" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Mono1" svg:font-family="&apos;Noto Mono&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans Regular" svg:font-family="&apos;Noto Sans Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Source Sans Pro" svg:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Source Sans Pro Light" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Source Sans Pro Light1" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Source Sans Pro Light2" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-pitch="variable"/>
-  <style:font-face style:name="Source Sans Pro Light3" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-adornments="Ligera" style:font-pitch="variable"/>
-  <style:font-face style:name="Source Sans Pro1" svg:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro" svg:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro Light" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro Light1" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro Light2" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-adornments="Ligera" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro Light3" svg:font-family="&apos;Source Sans Pro Light&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Sans Pro1" svg:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
@@ -251,11 +165,11 @@
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
   <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 20 20" svg:d="M0 20l10-20 10 20z"/>
   <style:default-style style:family="graphic">
-   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" style:writing-mode="lr-tb"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="none" fo:country="none" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif1" fo:font-size="24pt" fo:language="none" fo:country="none" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:style style:name="standard" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
@@ -303,7 +217,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:fill="none"/>
@@ -347,7 +261,7 @@
   </style:style>
   <style:style style:name="Graphic" style:family="graphic">
    <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
-   <style:text-properties style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="Shapes" style:family="graphic" style:parent-style-name="Graphic">
    <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Shapes"/>
@@ -362,7 +276,7 @@
   </style:style>
   <style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled">
    <style:graphic-properties draw:fill-gradient-name="Filled_20_Green"/>
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   </style:style>
   <style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled">
    <style:graphic-properties draw:fill-gradient-name="Filled_20_Red"/>
@@ -403,7 +317,7 @@
   <style:style style:name="default" style:family="table-cell">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-vertical-align="top" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm"/>
    <style:paragraph-properties fo:border="0.28pt solid #ffffff"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="bg-none" style:family="table-cell" style:parent-style-name="default">
    <loext:graphic-properties draw:fill="none"/>
@@ -424,7 +338,7 @@
   </style:style>
   <style:style style:name="Vivid-backgroundobjects" style:family="presentation">
    <style:graphic-properties draw:fill="none" draw:fill-image-width="0cm" draw:fill-image-height="0cm" draw:textarea-horizontal-align="justify" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
-   <style:text-properties fo:color="#dbf5f9" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable" fo:font-size="24pt" style:letter-kerning="true" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+   <style:text-properties fo:color="#dbf5f9" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro" fo:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable" fo:font-size="24pt" style:letter-kerning="true" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="Vivid-notes" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
@@ -477,7 +391,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.326cm" fo:text-indent="0cm"/>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable" fo:font-size="21pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="28pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable" fo:font-size="21pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="28pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="Vivid-outline2" style:family="presentation" style:parent-style-name="Vivid-outline1">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.297cm" fo:text-indent="0cm"/>
@@ -559,7 +473,7 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:color="#dbf5f9" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable" fo:font-size="36pt" fo:letter-spacing="normal" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-size-asian="36pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="36pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
+   <style:text-properties fo:color="#dbf5f9" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Source Sans Pro" fo:font-family="&apos;Source Sans Pro&apos;" style:font-pitch="variable" fo:font-size="36pt" fo:letter-spacing="normal" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-size-asian="36pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="36pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
   </style:style>
   <style:style style:name="Vivid-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-image-width="0cm" draw:fill-image-height="0cm" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="bottom" draw:auto-grow-height="false" draw:fit-to-size="false" style:shrink-to-fit="true" fo:min-height="3.306cm" fo:wrap-option="no-wrap">
@@ -609,7 +523,7 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Source Sans Pro Light3" fo:font-family="&apos;Source Sans Pro Light&apos;" style:font-style-name="Ligera" style:font-pitch="variable" fo:font-size="60pt" fo:letter-spacing="normal" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="250" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-size-asian="60pt" style:font-style-asian="normal" style:font-weight-asian="250" style:font-size-complex="60pt" style:font-style-complex="normal" style:font-weight-complex="250" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Source Sans Pro Light2" fo:font-family="&apos;Source Sans Pro Light&apos;" style:font-style-name="Ligera" style:font-pitch="variable" fo:font-size="60pt" fo:letter-spacing="normal" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="250" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-size-asian="60pt" style:font-style-asian="normal" style:font-weight-asian="250" style:font-size-complex="60pt" style:font-style-complex="normal" style:font-weight-complex="250" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
   </style:style>
   <style:style style:name="Default-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
@@ -622,7 +536,7 @@
   <style:style style:name="Default-notes" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="top"/>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-align="start" fo:text-indent="-0.6cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="Default-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="top" draw:auto-grow-height="false" draw:fit-to-size="false" style:shrink-to-fit="true">
@@ -670,14 +584,14 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-top="0.5cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="Default-outline2" style:family="presentation" style:parent-style-name="Default-outline1">
-   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:auto-grow-height="false" draw:fit-to-size="false" style:shrink-to-fit="true" fo:min-height="10.25cm" style:writing-mode="lr-tb"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:auto-grow-height="false" draw:fit-to-size="false" style:shrink-to-fit="true" fo:min-height="10.25cm"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.4cm" fo:margin-bottom="0cm" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Source Sans Pro" fo:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="28pt" fo:letter-spacing="normal" fo:language="none" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="28pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="28pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Source Sans Pro1" fo:font-family="&apos;Source Sans Pro&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="28pt" fo:letter-spacing="normal" fo:language="none" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="28pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="28pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="Default-outline3" style:family="presentation" style:parent-style-name="Default-outline2">
    <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0cm"/>
@@ -753,7 +667,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="Default-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle">
@@ -801,7 +715,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro Light1" fo:font-family="&apos;Source Sans Pro Light&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro Light" fo:font-family="&apos;Source Sans Pro Light&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:presentation-page-layout style:name="AL0T26">
    <presentation:placeholder presentation:object="handout" svg:x="2.058cm" svg:y="1.743cm" svg:width="10.556cm" svg:height="-0.231cm"/>
@@ -853,7 +767,7 @@
    <style:graphic-properties style:protect="size"/>
   </style:style>
   <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.746cm" fo:min-width="12.956cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
@@ -879,30 +793,26 @@
    <style:graphic-properties draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.25cm" fo:min-width="6.5cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr12" style:family="graphic" style:parent-style-name="objectwithoutfill">
-   <style:graphic-properties draw:marker-end="Arrowheads_20_1" draw:marker-end-width="0.3cm" draw:fill="none" draw:textarea-vertical-align="middle"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="0.475cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="0.449cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="objectwithoutfill">
+  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="objectwithoutfill">
    <style:graphic-properties draw:fill="none" draw:textarea-vertical-align="middle"/>
   </style:style>
-  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-width="0.1cm" svg:stroke-color="#f49100" draw:marker-start-width="0.35cm" draw:marker-end-width="0.35cm" draw:fill="none" draw:fill-color="#fc5c00" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.83cm" fo:min-width="4.08cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm" draw:shadow="hidden"/>
   </style:style>
-  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L6">
+  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L6">
    <style:graphic-properties draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="7.254cm" fo:min-width="12.404cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0cm"/>
+  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="6.217cm" fo:min-width="11.528cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Vivid-backgroundobjects">
@@ -987,11 +897,11 @@
   <style:style style:name="ce1" style:family="table-cell">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#dee6ef"/>
    <style:paragraph-properties fo:border-left="none" fo:border-right="none" fo:border-top="0.43pt solid #000000" fo:border-bottom="0.43pt solid #000000"/>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro Light" fo:font-size="21pt" fo:font-weight="bold" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro Light1" fo:font-size="21pt" fo:font-weight="bold" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce2" style:family="table-cell">
    <style:paragraph-properties fo:border-left="none" fo:border-right="none" fo:border-top="0.43pt solid #000000" fo:border-bottom="0.43pt solid #000000"/>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro" fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro1" fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:paragraph-properties style:writing-mode="lr-tb"/>
@@ -999,6 +909,7 @@
   </style:style>
   <style:style style:name="P2" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph">
@@ -1007,7 +918,7 @@
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:text-align="end"/>
+   <style:paragraph-properties fo:text-align="end" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
@@ -1019,6 +930,7 @@
    <style:text-properties fo:color="#04617b" loext:opacity="100%" fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph">
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph">
@@ -1026,7 +938,7 @@
    <style:text-properties fo:color="#04617b" loext:opacity="100%" fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="end"/>
+   <style:paragraph-properties fo:text-align="end" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph">
@@ -1036,141 +948,157 @@
    <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="end"/>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:text-align="end"/>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:paragraph-properties fo:text-align="end" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro1" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph">
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:text-align="end" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro1" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro1" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Source Sans Pro1" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:language="en" fo:country="GB" fo:hyphenate="false"/>
+   <style:text-properties fo:hyphenate="false"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph">
-   <loext:graphic-properties draw:fill-color="#ffffff"/>
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="en" fo:country="GB" fo:hyphenate="false"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Noto Mono"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Noto Mono"/>
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties style:font-name="Noto Mono"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:text-align="center"/>
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm"/>
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Noto Mono"/>
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph">
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="12pt"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="9pt" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="12pt" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="9pt" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
   </style:style>
   <style:style style:name="P32" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="12pt" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#fc5c00"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans1" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
-  </style:style>
   <style:style style:name="P34" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans1" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
-   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
    <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
+   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph">
-   <loext:graphic-properties draw:fill-color="#ffffff"/>
-   <style:text-properties fo:font-size="20pt"/>
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph">
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro Light" fo:font-size="21pt" fo:font-weight="bold" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="20pt"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph">
-   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro" fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro Light1" fo:font-size="21pt" fo:font-weight="bold" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph">
-   <loext:graphic-properties draw:fill-color="#ffffff"/>
-   <style:text-properties fo:font-size="20pt" fo:language="en" fo:country="GB"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro1" fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%"/>
-   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="20pt" fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P44" style:family="paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm"/>
-   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
@@ -1179,31 +1107,40 @@
    <style:text-properties fo:color="#04617b" loext:opacity="100%" fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro1" fo:font-size="12pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-size="9pt" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+   <style:text-properties style:font-name="Noto Mono"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-size="9pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties style:font-name="Source Sans Pro"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="9pt" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans1" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="9pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="22pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro Light1" fo:font-size="21pt" fo:font-weight="bold" style:font-size-asian="21pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#04617b" loext:opacity="100%" style:font-name="Source Sans Pro1" fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="22pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#04617b" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Source Sans Pro1" fo:font-size="15pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -1250,43 +1187,43 @@
   <text:list-style style:name="L2">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
     <style:list-level-properties text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="2" text:bullet-char="●">
     <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="3" text:bullet-char="●">
     <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="4" text:bullet-char="●">
     <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="5" text:bullet-char="●">
     <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="6" text:bullet-char="●">
     <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="7" text:bullet-char="●">
     <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="8" text:bullet-char="●">
     <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="9" text:bullet-char="●">
     <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="10" text:bullet-char="●">
     <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
-    <style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
   </text:list-style>
   <text:list-style style:name="L3">
@@ -1633,7 +1570,7 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P9" draw:layer="backgroundobjects" svg:width="16.5cm" svg:height="1cm" svg:x="10cm" svg:y="14.5cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P8"><text:span text:style-name="T2"><presentation:footer/></text:span><text:span text:style-name="T2"><text:s/></text:span></text:p>
+     <text:p text:style-name="P8"><text:span text:style-name="T2"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="25cm" svg:height="8.5cm" svg:x="1.5cm" svg:y="1.5cm" presentation:class="title" presentation:placeholder="true">
@@ -1646,7 +1583,6 @@
     <draw:text-box/>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Vivid-notes" draw:layer="backgroundobjects" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1678,7 +1614,7 @@
    <draw:frame presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
-   <draw:frame presentation:style-name="pr5" draw:text-style-name="P11" draw:layer="backgroundobjects" svg:width="25cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline">
+   <draw:frame presentation:style-name="pr5" draw:text-style-name="P12" draw:layer="backgroundobjects" svg:width="25cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline">
     <draw:text-box>
      <text:list text:style-name="L3">
       <text:list-item>
@@ -1724,18 +1660,17 @@
    <draw:line presentation:style-name="pr6" draw:text-style-name="P10" draw:layer="backgroundobjects" svg:x1="0cm" svg:y1="14.663cm" svg:x2="28cm" svg:y2="14.663cm">
     <text:p/>
    </draw:line>
-   <draw:frame presentation:style-name="pr7" draw:text-style-name="P13" draw:layer="backgroundobjects" svg:width="16.5cm" svg:height="1cm" svg:x="10cm" svg:y="14.5cm" presentation:class="footer">
+   <draw:frame presentation:style-name="pr7" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="16.5cm" svg:height="1cm" svg:x="10cm" svg:y="14.5cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P12"><presentation:footer/></text:p>
+     <text:p text:style-name="P13"><text:span text:style-name="T3"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
-   <draw:frame presentation:style-name="pr7" draw:text-style-name="P15" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1cm" svg:x="1.5cm" svg:y="14.5cm" presentation:class="date-time">
+   <draw:frame presentation:style-name="pr7" draw:text-style-name="P16" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1cm" svg:x="1.5cm" svg:y="14.5cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P14"><presentation:date-time/></text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T3"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Default-notes" draw:layer="backgroundobjects" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1767,22 +1702,22 @@
   <office:presentation><presentation:footer-decl presentation:name="ftr1">SciDataCon 2023, Session 499, M. Gruber</presentation:footer-decl><presentation:date-time-decl presentation:name="dtd1" presentation:source="fixed">October 25, 2023</presentation:date-time-decl>
    <draw:page draw:name="page1" draw:style-name="dp4" draw:master-page-name="Vivid" presentation:presentation-page-layout-name="AL1T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr10" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="9cm" svg:x="1.25cm" svg:y="0.75cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr10" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="9cm" svg:x="1.25cm" svg:y="0.75cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Linking Unit Formats</text:span></text:p>
+      <text:p><text:span text:style-name="T4">Linking Unit Formats</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr11" draw:text-style-name="P18" draw:layer="layout" svg:width="25cm" svg:height="3.25cm" svg:x="1.25cm" svg:y="10.75cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr11" draw:text-style-name="P19" draw:layer="layout" svg:width="25cm" svg:height="3.25cm" svg:x="1.25cm" svg:y="10.75cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L5">
        <text:list-item>
-        <text:p xml:id="id1" text:id="id1" text:style-name="P17"><text:span text:style-name="T3">Use of semantic tools</text:span></text:p>
+        <text:p xml:id="id1" text:id="id1" text:style-name="P18"><text:span text:style-name="T4">Use of semantic tools</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id2" text:id="id2" text:style-name="P17"><text:span text:style-name="T3">Prototypical linking of QUDT and DSI unit schemes</text:span></text:p>
+        <text:p xml:id="id2" text:id="id2" text:style-name="P18"><text:span text:style-name="T4">Prototypical linking of QUDT and DSI unit schemes</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id3" text:id="id3" text:style-name="P17"><text:span text:style-name="T3">Enable interoperability between unit systems</text:span></text:p>
+        <text:p xml:id="id3" text:id="id3" text:style-name="P18"><text:span text:style-name="T4">Enable interoperability between unit systems</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -1805,24 +1740,22 @@
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="1" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr12" draw:text-style-name="P19" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P20" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page2" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T19" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P21" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
       <text:p>Motivation</text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" draw:page-number="2" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P20" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes">
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P22" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes">
       <draw:text-box>
        <text:p>The semantic web toolbox enables us to operate on knowledge graphs and with that let machines have an understanding of concepts and their relations. </text:p>
        <text:p/>
@@ -1842,119 +1775,119 @@
    </draw:page>
    <draw:page draw:name="page3" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T19" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P21" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
       <text:p>Approach</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P22" xml:id="id4" draw:id="id4" draw:layer="layout" svg:width="13.456cm" svg:height="0.996cm" svg:x="13.596cm" svg:y="4.008cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P24" xml:id="id4" draw:id="id4" draw:layer="layout" svg:width="13.456cm" svg:height="0.996cm" svg:x="13.596cm" svg:y="4.008cm">
      <draw:text-box>
-      <text:p text:style-name="P21">&quot;\metre\kilogram\second\tothe{-2}&quot;</text:p>
+      <text:p text:style-name="P23"><text:span text:style-name="T5">&quot;\metre\kilogram\second\tothe{-2}&quot;</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr6" draw:text-style-name="P24" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="3.5cm" svg:height="1cm" svg:x="2.096cm" svg:y="4.004cm">
-     <text:p text:style-name="P23">unit:N</text:p>
+    <draw:custom-shape draw:style-name="gr6" draw:text-style-name="P26" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="3.5cm" svg:height="1cm" svg:x="2.096cm" svg:y="4.004cm">
+     <text:p text:style-name="P25"><text:span text:style-name="T5">unit:N</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr7" draw:text-style-name="P24" xml:id="id6" draw:id="id6" draw:layer="layout" svg:x1="6.096cm" svg:y1="4.504cm" svg:x2="13.596cm" svg:y2="4.504cm">
+    <draw:polyline draw:style-name="gr7" draw:text-style-name="P27" xml:id="id6" draw:id="id6" draw:layer="layout" svg:width="7.499cm" svg:height="0cm" svg:x="6.096cm" svg:y="4.504cm" svg:viewBox="0 0 7500 0" draw:points="0,0 7500,0">
      <text:p/>
-    </draw:line>
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P26" xml:id="id7" draw:id="id7" draw:layer="layout" svg:width="0.921cm" svg:height="1.991cm" svg:x="9.175cm" svg:y="4.504cm">
+    </draw:polyline>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P28" xml:id="id7" draw:id="id7" draw:layer="layout" svg:width="0.921cm" svg:height="1.991cm" svg:x="9.175cm" svg:y="4.504cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T4">?</text:span></text:p>
+      <text:p><text:span text:style-name="T6">?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P24" xml:id="id8" draw:id="id8" draw:layer="layout" svg:width="5cm" svg:height="1cm" svg:x="0.596cm" svg:y="7.004cm">
-     <text:p text:style-name="P23">qudt:Unit</text:p>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P26" xml:id="id8" draw:id="id8" draw:layer="layout" svg:width="5cm" svg:height="1cm" svg:x="0.596cm" svg:y="7.004cm">
+     <text:p text:style-name="P25"><text:span text:style-name="T5">qudt:Unit</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P24" xml:id="id13" draw:id="id13" draw:layer="layout" svg:width="4.5cm" svg:height="1cm" svg:x="7.096cm" svg:y="9.004cm">
-     <text:p text:style-name="P23">&lt;numeric&gt;</text:p>
+    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P26" xml:id="id13" draw:id="id13" draw:layer="layout" svg:width="4.5cm" svg:height="1cm" svg:x="7.096cm" svg:y="9.004cm">
+     <text:p text:style-name="P25"><text:span text:style-name="T5">&lt;numeric&gt;</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P28" xml:id="id18" draw:id="id18" draw:layer="layout" svg:width="7cm" svg:height="1.5cm" svg:x="7.096cm" svg:y="10.504cm">
-     <text:p xml:id="id17" text:id="id17" text:style-name="P27">qudt:QuantityKindDimensionVector</text:p>
+    <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P30" xml:id="id18" draw:id="id18" draw:layer="layout" svg:width="7cm" svg:height="1.5cm" svg:x="7.096cm" svg:y="10.504cm">
+     <text:p xml:id="id17" text:id="id17" text:style-name="P29"><text:span text:style-name="T5">qudt:QuantityKindDimensionVector</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr7" draw:text-style-name="P24" xml:id="id21" draw:id="id21" draw:layer="layout" svg:x1="1.096cm" svg:y1="11.229cm" svg:x2="7.096cm" svg:y2="11.229cm">
+    <draw:polyline draw:style-name="gr7" draw:text-style-name="P27" xml:id="id21" draw:id="id21" draw:layer="layout" svg:width="5.999cm" svg:height="0cm" svg:x="1.096cm" svg:y="11.229cm" svg:viewBox="0 0 6000 0" draw:points="0,0 6000,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P24" xml:id="id15" draw:id="id15" draw:layer="layout" svg:x1="1.596cm" svg:y1="9.504cm" svg:x2="7.096cm" svg:y2="9.504cm">
-     <text:p text:style-name="P23"/>
-    </draw:line>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P30" xml:id="id14" draw:id="id14" draw:layer="layout" svg:width="5.5cm" svg:height="0.725cm" svg:x="1.596cm" svg:y="8.779cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr7" draw:text-style-name="P26" xml:id="id15" draw:id="id15" draw:layer="layout" svg:width="5.499cm" svg:height="0cm" svg:x="1.596cm" svg:y="9.504cm" svg:viewBox="0 0 5500 0" draw:points="0,0 5500,0">
+     <text:p text:style-name="P10"><text:span text:style-name="T5"/></text:p>
+    </draw:polyline>
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P31" xml:id="id14" draw:id="id14" draw:layer="layout" svg:width="5.5cm" svg:height="0.725cm" svg:x="1.596cm" svg:y="8.779cm">
      <draw:text-box>
-      <text:p text:style-name="P29"><text:span text:style-name="T5">qudt:conversionMultiplier</text:span></text:p>
+      <text:p><text:span text:style-name="T7">qudt:conversionMultiplier</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P30" xml:id="id19" draw:id="id19" draw:layer="layout" svg:width="5.5cm" svg:height="0.725cm" svg:x="1.596cm" svg:y="10.504cm">
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P31" xml:id="id19" draw:id="id19" draw:layer="layout" svg:width="5.5cm" svg:height="0.725cm" svg:x="1.596cm" svg:y="10.504cm">
      <draw:text-box>
-      <text:p text:style-name="P29"><text:span text:style-name="T5">qudt:hasDimensionVector</text:span></text:p>
+      <text:p><text:span text:style-name="T7">qudt:hasDimensionVector</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P24" xml:id="id22" draw:id="id22" draw:layer="layout" svg:width="4.5cm" svg:height="1cm" svg:x="0.596cm" svg:y="12.504cm">
-     <text:p text:style-name="P23">&lt;numeric&gt;</text:p>
+    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P26" xml:id="id22" draw:id="id22" draw:layer="layout" svg:width="4.5cm" svg:height="1cm" svg:x="0.596cm" svg:y="12.504cm">
+     <text:p text:style-name="P25"><text:span text:style-name="T5">&lt;numeric&gt;</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P24" xml:id="id23" draw:id="id23" draw:layer="layout" svg:x1="12.096cm" svg:y1="13.004cm" svg:x2="5.096cm" svg:y2="13.004cm">
+    <draw:polyline draw:style-name="gr7" draw:text-style-name="P26" xml:id="id23" draw:id="id23" draw:layer="layout" svg:width="6.999cm" svg:height="0cm" svg:x="5.096cm" svg:y="13.004cm" svg:viewBox="0 0 7000 0" draw:points="7000,0 0,0">
      <text:p/>
-    </draw:line>
-    <draw:frame draw:style-name="gr14" draw:text-style-name="P31" xml:id="id24" draw:id="id24" draw:layer="layout" svg:width="6cm" svg:height="0.699cm" svg:x="5.596cm" svg:y="12.305cm">
+    </draw:polyline>
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P32" xml:id="id24" draw:id="id24" draw:layer="layout" svg:width="6cm" svg:height="0.699cm" svg:x="5.596cm" svg:y="12.305cm">
      <draw:text-box>
-      <text:p text:style-name="P29"><text:span text:style-name="T6">qudt:dimensionExponentForXYZ</text:span></text:p>
+      <text:p><text:span text:style-name="T8">qudt:dimensionExponentForXYZ</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P24" xml:id="id16" draw:id="id16" draw:layer="layout" svg:x1="1.596cm" svg:y1="9.504cm" svg:x2="1.596cm" svg:y2="8.004cm">
+    <draw:polyline draw:style-name="gr14" draw:text-style-name="P27" xml:id="id16" draw:id="id16" draw:layer="layout" svg:width="0cm" svg:height="1.499cm" svg:x="1.596cm" svg:y="8.004cm" svg:viewBox="0 0 0 1500" draw:points="0,1500 0,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P24" xml:id="id20" draw:id="id20" draw:layer="layout" svg:x1="1.096cm" svg:y1="11.229cm" svg:x2="1.096cm" svg:y2="8.004cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr14" draw:text-style-name="P27" xml:id="id20" draw:id="id20" draw:layer="layout" svg:width="0cm" svg:height="3.224cm" svg:x="1.096cm" svg:y="8.004cm" svg:viewBox="0 0 0 3225" draw:points="0,3225 0,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P24" xml:id="id25" draw:id="id25" draw:layer="layout" svg:x1="12.096cm" svg:y1="13.004cm" svg:x2="12.096cm" svg:y2="12.004cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr14" draw:text-style-name="P27" xml:id="id25" draw:id="id25" draw:layer="layout" svg:width="0cm" svg:height="0.999cm" svg:x="12.096cm" svg:y="12.004cm" svg:viewBox="0 0 0 1000" draw:points="0,1000 0,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P24" xml:id="id9" draw:id="id9" draw:layer="layout" svg:x1="1.096cm" svg:y1="6.004cm" svg:x2="1.096cm" svg:y2="7.004cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr7" draw:text-style-name="P26" xml:id="id9" draw:id="id9" draw:layer="layout" svg:width="0cm" svg:height="0.999cm" svg:x="1.096cm" svg:y="6.004cm" svg:viewBox="0 0 0 1000" draw:points="0,0 0,1000">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P24" xml:id="id10" draw:id="id10" draw:layer="layout" svg:x1="4.596cm" svg:y1="6.004cm" svg:x2="4.596cm" svg:y2="5.004cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr14" draw:text-style-name="P27" xml:id="id10" draw:id="id10" draw:layer="layout" svg:width="0cm" svg:height="0.999cm" svg:x="4.596cm" svg:y="5.004cm" svg:viewBox="0 0 0 1000" draw:points="0,1000 0,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P24" xml:id="id11" draw:id="id11" draw:layer="layout" svg:x1="4.596cm" svg:y1="6.004cm" svg:x2="1.096cm" svg:y2="6.004cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr14" draw:text-style-name="P27" xml:id="id11" draw:id="id11" draw:layer="layout" svg:width="3.499cm" svg:height="0cm" svg:x="1.096cm" svg:y="6.004cm" svg:viewBox="0 0 3500 0" draw:points="3500,0 0,0">
      <text:p/>
-    </draw:line>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P31" xml:id="id12" draw:id="id12" draw:layer="layout" svg:width="2.5cm" svg:height="0.725cm" svg:x="2.096cm" svg:y="5.279cm">
+    </draw:polyline>
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P32" xml:id="id12" draw:id="id12" draw:layer="layout" svg:width="2.5cm" svg:height="0.725cm" svg:x="2.096cm" svg:y="5.279cm">
      <draw:text-box>
-      <text:p text:style-name="P29"><text:span text:style-name="T5">rdf:type</text:span></text:p>
+      <text:p><text:span text:style-name="T7">rdf:type</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P32" xml:id="id30" draw:id="id30" draw:layer="layout" svg:width="4.68cm" svg:height="1.18cm" svg:x="7.012cm" svg:y="8.909cm">
+    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P33" xml:id="id30" draw:id="id30" draw:layer="layout" svg:width="4.68cm" svg:height="1.18cm" svg:x="7.012cm" svg:y="8.909cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P32" xml:id="id29" draw:id="id29" draw:layer="layout" svg:width="4.68cm" svg:height="1.18cm" svg:x="0.5cm" svg:y="12.403cm">
+    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P33" xml:id="id29" draw:id="id29" draw:layer="layout" svg:width="4.68cm" svg:height="1.18cm" svg:x="0.5cm" svg:y="12.403cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P34" xml:id="id26" draw:id="id26" draw:layer="layout" svg:width="12.904cm" svg:height="7.504cm" svg:x="14.596cm" svg:y="6cm">
-     <text:p text:style-name="P33"><text:span text:style-name="T7"/></text:p>
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P35" xml:id="id26" draw:id="id26" draw:layer="layout" svg:width="12.904cm" svg:height="7.504cm" svg:x="14.596cm" svg:y="6cm">
+     <text:p text:style-name="P34"><text:span text:style-name="T9"/></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr18" draw:text-style-name="P37" draw:layer="layout" svg:width="12.028cm" svg:height="6.467cm" svg:x="15cm" svg:y="6.533cm">
+    <draw:frame draw:style-name="gr17" draw:text-style-name="P38" draw:layer="layout" svg:width="12.028cm" svg:height="6.467cm" svg:x="15cm" svg:y="6.533cm">
      <draw:text-box>
-      <text:p xml:id="id27" text:id="id27" text:style-name="P35"><text:span text:style-name="T8">Steps</text:span></text:p>
+      <text:p xml:id="id27" text:id="id27" text:style-name="P36"><text:span text:style-name="T10">Steps</text:span></text:p>
       <text:list text:style-name="L7">
        <text:list-item>
-        <text:p xml:id="id28" text:id="id28" text:style-name="P36"><text:span text:style-name="T9">request information from all QUDT units</text:span></text:p>
+        <text:p xml:id="id28" text:id="id28" text:style-name="P37"><text:span text:style-name="T9">request information from all QUDT units</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id31" text:id="id31" text:style-name="P36"><text:span text:style-name="T9">filter for coherent units (cf. == 1)</text:span></text:p>
+        <text:p xml:id="id31" text:id="id31" text:style-name="P37"><text:span text:style-name="T9">filter for coherent units (cf. == 1)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id32" text:id="id32" text:style-name="P36"><text:span text:style-name="T9">construct DSI string</text:span></text:p>
+        <text:p xml:id="id32" text:id="id32" text:style-name="P37"><text:span text:style-name="T9">construct DSI string</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P36"><text:span text:style-name="T9"/></text:p>
-      <text:p xml:id="id33" text:id="id33" text:style-name="P36"><text:span text:style-name="T9">→ </text:span><text:span text:style-name="T9">implemented in a single SPARQL call</text:span></text:p>
+      <text:p text:style-name="P37"><text:span text:style-name="T9"/></text:p>
+      <text:p xml:id="id33" text:id="id33" text:style-name="P37"><text:span text:style-name="T9">→ </text:span><text:span text:style-name="T9">implemented in a single SPARQL call</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -2096,9 +2029,8 @@
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" draw:page-number="3" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P38" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P39" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
        <text:p>General idea: create a valid DSI string for a subset of units in the QUDT knowledge graph</text:p>
        <text:p/>
@@ -2117,9 +2049,9 @@
    </draw:page>
    <draw:page draw:name="page4" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr13" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Demo and Examples</text:span></text:p>
+      <text:p><text:span text:style-name="T4">Demo and Examples</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="24.999cm" svg:height="5.941cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="table" presentation:user-transformed="true">
@@ -2128,154 +2060,414 @@
       <table:table-column table:style-name="co2"/>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce1">
        <table:table-cell>
-        <text:p text:style-name="P39">QUDT</text:p>
+        <text:p><text:span text:style-name="T11">QUDT</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P39">DSI</text:p>
+        <text:p text:style-name="P40"><text:span text:style-name="T11">DSI</text:span></text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P40">unit:M</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">unit:M</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P40">&quot;\metre&quot;</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">&quot;\metre&quot;</text:span></text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P40">unit:KiloGM</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">unit:KiloGM</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P40">&quot;\kilogram&quot;</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">&quot;\kilogram&quot;</text:span></text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P40">unit:N-M</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">unit:N-M</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P40">&quot;\metre\tothe{2}\kilogram\second\tothe{-2}&quot;</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">&quot;\metre\tothe{2}\kilogram\second\tothe{-2}&quot;</text:span></text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P40">unit:OHM</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">unit:OHM</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P40">&quot;\ampere\tothe{-2}\metre\tothe{2}\kilogram\second\tothe{-3}&quot;</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">&quot;\ampere\tothe{-2}\metre\tothe{2}\kilogram\second\tothe{-3}&quot;</text:span></text:p>
        </table:table-cell>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:default-cell-style-name="ce2">
        <table:table-cell>
-        <text:p text:style-name="P40">unit:KiloGM-PER-MOL</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">unit:KiloGM-PER-MOL</text:span></text:p>
        </table:table-cell>
        <table:table-cell>
-        <text:p text:style-name="P40">&quot;\mole\tothe{-1}\kilogram&quot;</text:p>
+        <text:p text:style-name="P41"><text:span text:style-name="T12">&quot;\mole\tothe{-1}\kilogram&quot;</text:span></text:p>
        </table:table-cell>
       </table:table-row>
-     </table:table>
+     </table:table><draw:image>
+      <office:binary-data>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
+       VEVYVF9FT0MFAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MGAAAAAAAAAAACAQATAAAACQBY
+       VEVYVF9FT1cGAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MHAAAAAAAAAAACAQATAAAACQBY
+       VEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABY
+       VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
+       QkVHSU4AAAAAAAAAAIoAAQBFAAAABAA/AAAADwBTb3VyY2UgU2FucyBQcm8AAAAAAAARAgAA
+       //8AAAIABQAAAAAAAAAHBAAAAAAAAAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+       /////wCGAAEABAAAAHthBABxAAIAbgEAANYlAAAJHAAAKwAAACIAXABtAGUAdAByAGUAXAB0
+       AG8AdABoAGUAewAyAH0AXABrAGkAbABvAGcAcgBhAG0AXABzAGUAYwBvAG4AZABcAHQAbwB0
+       AGgAZQB7AC0AMgB9ACIAAAArACsAAADgAAAAmwEAAFMDAABVBAAABwUAALkFAAC3BgAAcQcA
+       AB8IAAA2CQAA6AkAAAgLAAAODAAArwwAALUNAABWDgAAEQ8AABcQAACaEAAAIhEAAEISAABM
+       EwAA9hMAAAAVAAC5FgAAcxcAAE8YAABVGQAAOhoAAFobAAB6HAAAnh0AAFgeAAAGHwAAHSAA
+       AM8gAADvIQAA9SIAAJYjAAA7JAAAQiUAAOMlAADDJgAAKwAiAFwAbQBlAHQAcgBlAFwAdABv
+       AHQAaABlAHsAMgB9AFwAawBpAGwAbwBnAHIAYQBtAFwAcwBlAGMAbwBuAGQAXAB0AG8AdABo
+       AGUAewAtADIAfQAiAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MBAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cBAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MCAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MDAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MEAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MFAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MGAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MHAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT1cHAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MIAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MJAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MKAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MLAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MMAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MNAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cNAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MOAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MPAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT1cPAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MQAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MRAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cRAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MSAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MTAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MUAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MVAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MWAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MXAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT0MYAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MZAAAAAAAAAAACAQATAAAACQBYVEVY
+       VF9FT1cZAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MaAAAAAAAAAAACAQATAAAACQBYVEVY
+       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
+       HAAAUh0AAPMdAACtHgAAsx8AADcgAAC+IAAA3iEAAOkiAACSIwAAnSQAAFUmAAAPJwAA6ycA
+       APIoAADWKQAA9ioAABYsAAA6LQAA9C0AAKIuAAC5LwAAazAAAIsxAACSMgAAMjMAANgzAADe
+       NAAAfzUAAF82AAA8ACIAXABhAG0AcABlAHIAZQBcAHQAbwB0AGgAZQB7AC0AMgB9AFwAbQBl
+       AHQAcgBlAFwAdABvAHQAaABlAHsAMgB9AFwAawBpAGwAbwBnAHIAYQBtAFwAcwBlAGMAbwBu
+       AGQAXAB0AG8AdABoAGUAewAtADMAfQAiAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MBAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cBAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MCAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MDAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MEAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MFAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MGAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MHAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MIAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cIAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MJAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MKAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MLAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MMAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MNAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MOAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1cOAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MPAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MQAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cQAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MRAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MSAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1cSAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MTAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MUAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MVAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MWAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MXAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MYAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cYAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MZAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MaAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MbAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0McAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MdAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MeAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1ceAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MfAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MgAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cgAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MhAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MiAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1ciAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MjAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MkAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MlAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MmAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MnAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MoAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MpAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MqAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cqAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MrAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MsAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MtAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MuAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MvAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MwAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MxAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cxAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0MyAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MzAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0M0AAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0M1AAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0M2AAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0M3AAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1c3AAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0M4AAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0M5AAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1c5AAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT0M6AAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0M7AAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1c7AAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAAC
+       AQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VO
+       RAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBF
+       AAAABAA/AAAADwBTb3VyY2UgU2FucyBQcm8AAAAAAAARAgAA//8AAAIABQAAAAAAAAAHBAAA
+       AAAAAAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAHthBABx
+       AAIArgAAAEAGAACNIwAAEwAAAHUAbgBpAHQAOgBLAGkAbABvAEcATQAtAFAARQBSAC0ATQBP
+       AEwAAAATABMAAAAgAQAAQAIAAMMCAAB9AwAAAAQAADEFAAC1BQAAPAYAAFwHAACiCAAAIwoA
+       AMgKAAD1CwAADA0AACgOAADNDgAAThAAAK0RAACwEgAAEwB1AG4AaQB0ADoASwBpAGwAbwBH
+       AE0ALQBQAEUAUgAtAE0ATwBMAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MBAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MCAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MDAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MEAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT1cEAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MFAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MGAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MHAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MIAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MJAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MKAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MLAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT1cLAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MMAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MNAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MOAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MPAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1cPAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MQAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MRAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT0MSAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAA
+       CQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAA
+       AAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBFAAAABAA/
+       AAAADwBTb3VyY2UgU2FucyBQcm8AAAAAAAARAgAA//8AAAIABQAAAAAAAAAHBAAAAAAAAAAB
+       AP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAHthBABxAAIA5gAA
+       ANYlAACNIwAAGgAAACIAXABtAG8AbABlAFwAdABvAHQAaABlAHsALQAxAH0AXABrAGkAbABv
+       AGcAcgBhAG0AIgAAABoAGgAAAOAAAACbAQAAUwMAAHMEAAD6BAAA+AUAALMGAABgBwAAdwgA
+       ACkJAABJCgAAUAsAAPALAACWDAAAnA0AAD0OAAD3DgAA/g8AAIEQAAAIEQAAKBIAADMTAADc
+       EwAA5xQAAJ8WAACAFwAAGgAiAFwAbQBvAGwAZQBcAHQAbwB0AGgAZQB7AC0AMQB9AFwAawBp
+       AGwAbwBnAHIAYQBtACIAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhU
+       RVhUX0VPQwEAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPVwEAAAAAAAAAAAIBABMAAAAJAFhU
+       RVhUX0VPQwIAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPQwMAAAAAAAAAAAIBABMAAAAJAFhU
+       RVhUX0VPQwQAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPQwUAAAAAAAAAAAIBABMAAAAJAFhU
+       RVhUX0VPQwYAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPVwYAAAAAAAAAAAIBABMAAAAJAFhU
+       RVhUX0VPQwcAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPQwgAAAAAAAAAAAIBABMAAAAJAFhU
+       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
+       AAAAAAAAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
     </draw:frame>
-    <presentation:notes draw:style-name="dp4">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" draw:page-number="4" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P41" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P42" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page5" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr13" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Known Limitations</text:span></text:p>
+      <text:p><text:span text:style-name="T4">Known Limitations</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr16" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr16" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L8">
        <text:list-item>
-        <text:p><text:span text:style-name="T3">only units with conversionmultiplier==1.0 and conversionoffset==0.0 considered so far (location+amount of prefixed units (e.g., mm/ms) of the prefix not clear, e.g. check m/ms = km/s )</text:span></text:p>
+        <text:p><text:span text:style-name="T4">only units with conversionmultiplier==1.0 and conversionoffset==0.0 considered so far (location+amount of prefixed units (e.g., mm/ms) of the prefix not clear, e.g. check m/ms = km/s )</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">some units with DEG_C still show up, although offset units should be filtered</text:span></text:p>
+        <text:p><text:span text:style-name="T4">some units with DEG_C still show up, although offset units should be filtered</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">not considered so far: official order of quantities in DSI?</text:span></text:p>
+        <text:p><text:span text:style-name="T4">not considered so far: official order of quantities in DSI?</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">not considered so far: dimensionless quantities like m/m </text:span></text:p>
+        <text:p><text:span text:style-name="T4">not considered so far: dimensionless quantities like m/m </text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">DSI unit string is not necessarily unique, only one variant is generated</text:span></text:p>
+        <text:p><text:span text:style-name="T4">DSI unit string is not necessarily unique, only one variant is generated</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp4">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" draw:page-number="5" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P41" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P42" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page6" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr13" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Outlook</text:span></text:p>
+      <text:p><text:span text:style-name="T4">Outlook</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr16" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline">
+    <draw:frame presentation:style-name="pr16" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline">
      <draw:text-box>
       <text:list text:style-name="L8">
        <text:list-item>
-        <text:p><text:span text:style-name="T3">Extend to units with scaling factor or prefix</text:span></text:p>
+        <text:p><text:span text:style-name="T4">Extend to units with scaling factor or prefix</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">Linking to the SI Reference Point</text:span></text:p>
+        <text:p><text:span text:style-name="T4">Linking to the SI Reference Point</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" draw:page-number="6" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P19" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P20" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page7" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr13" draw:text-style-name="P16" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P17" draw:layer="layout" svg:width="25cm" svg:height="2.5cm" svg:x="1.5cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">References</text:span></text:p>
+      <text:p><text:span text:style-name="T4">References</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr17" draw:text-style-name="P43" draw:layer="layout" svg:width="10.5cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr17" draw:text-style-name="P44" draw:layer="layout" svg:width="10.5cm" svg:height="10.5cm" svg:x="1.5cm" svg:y="3.5cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P42"><text:span text:style-name="T10">QUDT</text:span></text:p>
-      <text:p text:style-name="P42"><text:span text:style-name="T10"><text:a xlink:href="https://www.qudt.org/" xlink:type="simple">https://www.qudt.org/</text:a></text:span><text:span text:style-name="T10"><text:s text:c="2"/></text:span></text:p>
-      <text:p text:style-name="P42"><text:span text:style-name="T11"/></text:p>
-      <text:p text:style-name="P42"><text:span text:style-name="T10">DSI / DCC</text:span></text:p>
-      <text:p text:style-name="P42"><text:span text:style-name="T10"><text:a xlink:href="https://www.ptb.de/empir2018/fileadmin/documents/empir/SmartCom/documents_for_download/Digital_System_of_Units_D-SI_2019-11-04_UK_NPL_SmartCom.pdf" xlink:type="simple">https://www.ptb.de/empir2018/fileadmin/documents/empir/SmartCom/documents_for_download/Digital_System_of_Units_D-SI_2019-11-04_UK_NPL_SmartCom.pdf</text:a></text:span><text:span text:style-name="T10"><text:s/></text:span></text:p>
-      <text:p text:style-name="P42"><text:span text:style-name="T10">SI Reference Point </text:span></text:p>
-      <text:p text:style-name="P42"><text:span text:style-name="T10"><text:a xlink:href="https://www.bipm.org/documents/20126/71876713/DIG-MET-2022-MILES.pdf/f0757b30-eac0-7afc-c6ec-677a5fa092f4" xlink:type="simple">https://www.bipm.org/documents/20126/71876713/DIG-MET-2022-MILES.pdf/f0757b30-eac0-7afc-c6ec-677a5fa092f4</text:a></text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T13">QUDT</text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T13"><text:a xlink:href="https://www.qudt.org/" xlink:type="simple">https://www.qudt.org/</text:a></text:span><text:span text:style-name="T13"><text:s text:c="2"/></text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T14"/></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T13">DSI / DCC</text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T13"><text:a xlink:href="https://www.ptb.de/empir2018/fileadmin/documents/empir/SmartCom/documents_for_download/Digital_System_of_Units_D-SI_2019-11-04_UK_NPL_SmartCom.pdf" xlink:type="simple">https://www.ptb.de/empir2018/fileadmin/documents/empir/SmartCom/documents_for_download/Digital_System_of_Units_D-SI_2019-11-04_UK_NPL_SmartCom.pdf</text:a></text:span><text:span text:style-name="T13"><text:s/></text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T13">SI Reference Point </text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T13"><text:a xlink:href="https://www.bipm.org/documents/20126/71876713/DIG-MET-2022-MILES.pdf/f0757b30-eac0-7afc-c6ec-677a5fa092f4" xlink:type="simple">https://www.bipm.org/documents/20126/71876713/DIG-MET-2022-MILES.pdf/f0757b30-eac0-7afc-c6ec-677a5fa092f4</text:a></text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr18" draw:text-style-name="P45" draw:layer="layout" svg:width="12cm" svg:height="10.5cm" svg:x="14cm" svg:y="3.5cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr18" draw:text-style-name="P46" draw:layer="layout" svg:width="12cm" svg:height="10.5cm" svg:x="14cm" svg:y="3.5cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P44"><text:span text:style-name="T11">Source Code</text:span></text:p>
-      <text:p text:style-name="P44"><text:span text:style-name="T11"><text:a xlink:href="https://github.com/mgrub/DSI_from_QUDT" xlink:type="simple">https://github.com/mgrub/DSI_from_QUDT</text:a></text:span></text:p>
-      <text:p text:style-name="P44"><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">CODATA DRUM TG</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11"><text:a xlink:href="https://codata.org/initiatives/task-groups/drum/" xlink:type="simple">https://codata.org/initiatives/task-groups/drum/</text:a></text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T14">Source Code</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T14"><text:a xlink:href="https://github.com/mgrub/DSI_from_QUDT" xlink:type="simple">https://github.com/mgrub/DSI_from_QUDT</text:a></text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T14"><text:line-break/></text:span><text:span text:style-name="T14">CODATA DRUM TG</text:span><text:span text:style-name="T14"><text:line-break/></text:span><text:span text:style-name="T14"><text:a xlink:href="https://codata.org/initiatives/task-groups/drum/" xlink:type="simple">https://codata.org/initiatives/task-groups/drum/</text:a></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="6.9cm" svg:height="4.743cm" svg:x="7.1cm" svg:y="23cm" draw:page-number="7" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P19" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P20" draw:layer="layout" svg:width="19cm" svg:height="20.971cm" svg:x="1cm" svg:y="2.029cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
