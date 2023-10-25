@@ -9,6 +9,25 @@ Please be aware that the source code provided in this repository is work in prog
 - prototypical proof-of-concept implementation to see, whether the conversion is possible at all
 - aims to provide a DSI-string for (a selected subset of) the QUDT-units, e.g. to provide this to a user / LaTeX-engine
 
+## Run the Code
+
+Try the SPARQL code by copying it into the interface of: <https://www.qudt.org/fuseki/#/dataset/qudt/query>
+
+Alternatively, for local execution you can use the provided Python scripts to download the required ontologies
+
+```bash
+python download_ontologies.py
+```
+
+and run them by
+
+```bash
+python execute_sparql.py
+```
+
+Please note, that this requires a Python environment with the packages listed in `requirements.txt`.
+The creation of a dedicated Python environment (venv, pyenv, etc. ) is highly recommended.
+
 ## Known limits and issues
 
 - only units with conversionmultiplier==1.0 and conversionoffset==0.0 considered so far (location+amount of prefixed units (e.g., mm/ms) of the prefix not clear, e.g. check m/ms = km/s )
